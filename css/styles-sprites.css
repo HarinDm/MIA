@@ -1,0 +1,26 @@
+.svg-mouse {
+  background: url("../assets/icons/svg/spriteSVG.svg") no-repeat;
+}
+
+.svg-mouse {
+  background-position: 0 0;
+}
+
+.svg-mouse-box {
+  width: 35.09px;
+  height: 52px;
+}
+
+.icon-png {
+  background-image: url(../assets/icons/png/spritePNG.png);
+  background-position: -40px 0px;
+  width: 40px;
+  height: 40px;
+}
+
+.icon-webp {
+  background-image: url(../assets/icons/webp/spriteWEBP.webp);
+  background-position: -40px 0px;
+  width: 40px;
+  height: 40px;
+}

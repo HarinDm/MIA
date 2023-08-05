@@ -1,0 +1,14 @@
+%svg-common {
+	background: url("../assets/icons/svg/spriteSVG.svg") no-repeat;
+}
+
+.svg-mouse {
+	@extend %svg-common;
+	background-position: 0 0;
+}
+
+.svg-mouse-box {
+	width: 35.09px;
+	height: 52px;
+}
+
